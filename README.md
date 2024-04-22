@@ -14,14 +14,14 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 4. Plot the Cluster graph
 
 ## Program:
-
 ```
 /*
 Program to implement the K Means Clustering for Customer Segmentation.
 Developed by: PRAVEENA N
 RegisterNumber: 212222040122
 */
-
+```
+```
 import pandas as pd
 import matplotlib.pyplot as plt
 data = pd.read_csv("C:/Users/SEC/Downloads/Mall_Customers.csv")
@@ -86,7 +86,6 @@ plt.title("Customer Segments")
 
 #### Customer segments Graph
 ![Screenshot 2023-06-03 174648](https://github.com/Yamunaasri/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/115707860/f6c560cf-f5bb-4719-b6a4-eefd4cece1e0)
-
 
 ## Result:
 Thus the program to implement the K Means Clustering for Customer Segmentation is written and verified using python programming.
