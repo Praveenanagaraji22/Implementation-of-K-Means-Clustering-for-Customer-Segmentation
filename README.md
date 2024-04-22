@@ -14,6 +14,7 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 4. Plot the Cluster graph
 
 ## Program:
+
 ```
 /*
 Program to implement the K Means Clustering for Customer Segmentation.
