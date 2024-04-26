@@ -63,26 +63,19 @@ plt.title("Customer Segments")
 ```
 
 ## Output:
-#### data.head() function
 ![Screenshot 2023-06-03 174421](https://github.com/Yamunaasri/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/115707860/4ddf5cc1-60a4-4f52-9101-d0c664fef559)
 
-#### data.info()
 ![Screenshot 2023-06-03 174451](https://github.com/Yamunaasri/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/115707860/c980ee78-5b2d-4787-a428-599f1c6a1a9a)
 
-#### data.isnull().sum() function
 ![Screenshot 2023-06-03 174514](https://github.com/Yamunaasri/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/115707860/e32c9584-db05-47f7-8953-c573ab2bd24b)
 
-#### Elbow method Graph
 ![Screenshot 2023-06-03 174540](https://github.com/Yamunaasri/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/115707860/12f65900-41fe-4ea8-8a3e-23b53f3ddd63)
 
-#### KMeans clusters
 ![Screenshot 2023-06-03 174604](https://github.com/Yamunaasri/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/115707860/c8cda73d-62dd-4850-a950-ffe8015453b9)
 
 ![Screenshot 2023-06-03 174609](https://github.com/Yamunaasri/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/115707860/24988003-5833-48d9-b5c6-bc95d368c31f)
 
-#### Customer segments Graph
 ![Screenshot 2023-06-03 174648](https://github.com/Yamunaasri/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/115707860/f6c560cf-f5bb-4719-b6a4-eefd4cece1e0)
-
 
 ## Result:
 Thus the program to implement the K Means Clustering for Customer Segmentation is written and verified using python programming.
