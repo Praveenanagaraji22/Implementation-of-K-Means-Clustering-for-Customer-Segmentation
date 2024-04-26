@@ -19,13 +19,16 @@ To write a program to implement the K Means Clustering for Customer Segmentation
 Program to implement the K Means Clustering for Customer Segmentation.
 Developed by: PRAVEENA N
 RegisterNumber: 212222040122
-
+```
+```
 import pandas as pd
 import matplotlib.pyplot as plt
 data = pd.read_csv("/content/Mall_Customers (1) (1).csv")
 data.head()
 data.info()
 data.isnull().sum()
+```
+```
 from sklearn.cluster import KMeans
 wcss = []  #Within-Cluster sum of square. 
 for i in range(1,11):
